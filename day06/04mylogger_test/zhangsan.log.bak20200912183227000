@@ -1,0 +1,131 @@
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三
+[2020-09-12 18:32:27] [FATAL] [main.go:main:23] 这是一条Fatal日志
+[2020-09-12 18:32:27] [INFO] [main.go:main:18] 这是一条Info日志
+[2020-09-12 18:32:27] [WARNING] [main.go:main:19] 这是一条Warning日志
+[2020-09-12 18:32:27] [ERROR] [main.go:main:22] 这是一条Error日志. id: 10010 name: 张三

@@ -1,0 +1,30 @@
+package splitstring
+
+import (
+	"reflect"
+	"testing"
+)
+
+func TestSplit(t *testing.T) {
+	ret := Split("babcbef", "b")
+	want := []string{"", "a", "c", "ef"}
+	if !reflect.DeepEqual(ret, want) { // 切片不能直接比较
+		t.Errorf("期望得到：%v 但是得到：%v\n", want, ret)
+	}
+}
+
+func Test2Split(t *testing.T) {
+	ret := Split("a:b:c", ":")
+	want := []string{"a", "b", "c"}
+	if !reflect.DeepEqual(ret, want) {
+		t.Errorf("期望得到：%v 但是得到：%v\n", want, ret)
+	}
+}
+
+func Test3Split(t *testing.T) {
+	ret := Split("abcdef", "bc")
+	want := []string{"a", "def"}
+	if !reflect.DeepEqual(ret, want) {
+		t.Fatalf("期望得到：%v 但是得到：%v\n", want, ret)
+	}
+}
